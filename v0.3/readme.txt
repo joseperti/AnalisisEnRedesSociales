@@ -1,0 +1,1 @@
+Va bien la representación temporal pero no sé cómo lo he hecho
